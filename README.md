@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Guilherme Miranda Pontes
 
  Estudante de Desenvolvimento de Sistemas  
- Aprendendo programação e desenvolvimento web  
+ Aprendendo programação e desenvolvimento de sistemas 
  Futuro desenvolvedor
  
 ## 🛠 Tecnologias que estou aprendendo
